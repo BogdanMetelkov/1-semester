@@ -28,9 +28,9 @@ a = 10
 b = 3
 
 
-print("Додавання:", a + b)
-print("Віднімання:", a - b)
-print("Множення:", a * b)
-print("Ділення:", a / b)
-print("Більше:", a > b)
-print("Дорівнює:", a == 10)
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a > b)
+print(a == 10)
