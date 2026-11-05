@@ -1,0 +1,10 @@
+requests
+colorama
+rich
+numpy
+pandas
+pillow
+beautifulsoup4
+openpyxl
+matplotlib
+jinja2
